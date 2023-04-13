@@ -19,6 +19,11 @@ Start the server
   npm start
 ```
 
+## Features
+
+- Sign and Signup
+- Add ,update and view Admin
+- Add,update and view User
 
 ## Tech Stack
 
