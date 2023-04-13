@@ -21,7 +21,7 @@ Start the server
 
 ## Features
 
-- Sign and Signup
+- Signin and Signup
 - Add ,update and view Admin
 - Add,update and view User
 
